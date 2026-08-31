@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: './',
+    base: '/htt_mouses/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
