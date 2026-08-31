@@ -1,0 +1,6 @@
+{
+  "name": "閩南語聽力打地鼠",
+  "description": "專為國小本土語文教學設計的互動式聽力打地鼠遊戲，支援連結 Google 試算表題庫、動態題庫生成、語音播放與 Web Audio 音效、即時連擊狂熱模式與學習成效分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
